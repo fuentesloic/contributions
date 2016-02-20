@@ -18,7 +18,9 @@ Pour commencer, il faut donc :
 ### Création d’un dépôt sur Github
 Pour créer un nouveau dépôt, *GitHub* propose la fonctionnalité : *New repository*.
 
-Nous avons nommé le dépôt : *daktary-meteor*.
+Pour finaliser, il faut indiquer le nom et la description :
+- Nom : *daktary-meteor*
+- Description : "Boite à outils pour visualiser des documents Markdown stockés sur Github"
 
 ### Liens
 - [[Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
