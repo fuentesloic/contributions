@@ -23,5 +23,5 @@ Pour finaliser, il faut indiquer le nom et la description :
 - Description : "Boite à outils pour visualiser des documents Markdown stockés sur Github"
 
 ### Liens
-- [[Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
+- [Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
 - [Créer un dépôt (en)](https://help.github.com/articles/create-a-repo/)
