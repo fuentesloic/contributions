@@ -1,29 +1,25 @@
 ## Création d’un dépôt sur Github
 
 ### Les raisons
-*Github* est une plateforme propriétaire qui propose un service web d'hébergement utilisant le service de gestion de versions *Git*.  Ce serait sympa que notre projet soit partagé. Que d’autres développeurs ou utilisateurs puissent interagir avec le code. Pour faciliter la collaboration, il faut que l’on puisse suivre son évolution, retracer son historique de fabrication et entretenir une documentation. 
+*Github* est une plateforme propriétaire qui propose un service web d'hébergement utilisant le service de gestion de versions *Git*.
+
+Ce serait sympa que notre projet soit partagé. Que d’autres développeurs ou utilisateurs puissent interagir avec le code. Pour faciliter la collaboration, il faut que l’on puisse suivre son évolution, retracer son historique de fabrication et entretenir une documentation.
+
 Choisir *Github* n’est pas l’option la plus éthique. Si le projet prend de l’ampleur, il sera sans doute intéressant de trouver une solution mieux orientée.
 
 ### Éléments requis
 L’interaction avec *Github* se fera en ligne de commande pour les manipulations de codes, et par l’interface web pour la gestion des utilisateurs, de la documentation et des échanges communautaires.
 
-Pour commencer, il faut donc : - accéder à un terminal - ouvrir un compte *Github* - installer *git* en local
+Pour commencer, il faut donc :
+- accéder à un terminal
+- ouvrir un compte *Github*
+- installer *git* en local
 
 ### Création d’un dépôt sur Github
-Créer un repo
-Description
-Boite à outils pour visualiser des documents Markdown stockés sur Github
+Pour créer un nouveau dépôt, *GitHub* propose la fonctionnalité : *New repository*.
 
+Nous avons nommé le dépôt : *daktary-meteor*.
 
-### Liens > [[Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
-
-
-# Créer une application Meteor
-meteor create daktary-meteor
-lancer meteor
-
-git init .
-git remote add origin git@github.com:pointbar/daktary-meteor
-git add .
-git commit -m "Création d'une application Meteor"
-git push --set-upstream origin master
+### Liens
+- [[Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
+- [Créer un dépôt (en)](https://help.github.com/articles/create-a-repo/)
