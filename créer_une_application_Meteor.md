@@ -47,6 +47,10 @@ Par convention *Meteor*, les fichiers placés dans le dossier */client* ne seron
 
 ### Liens
 
+- [Meteor][1]
+- [Documentation Meteor][2]
+
+
 [1]:	http://www.meteor.com
 [2]:	http://docs.meteor.com/#/full/
 [3]:	http://localhost:3000
