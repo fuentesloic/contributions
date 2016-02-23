@@ -3,7 +3,8 @@
 ### Les raisons
 *Github* est une plateforme propriétaire qui propose un service web d'hébergement utilisant le service de gestion de versions *Git*.
 
-Ce serait sympa que notre projet soit partagé. Que d’autres développeurs ou utilisateurs puissent interagir avec le code. Pour faciliter la collaboration, il faut que l’on puisse suivre son évolution, retracer son historique de fabrication et entretenir une documentation.
+Ce serait sympa que notre projet soit partagé. Que d’autres développeurs ou utilisateurs puissent interagir avec le code.  
+Pour faciliter la collaboration, il faut que l’on puisse suivre son évolution, retracer son historique de fabrication et entretenir une documentation.
 
 Choisir *Github* n’est pas l’option la plus éthique. Si le projet prend de l’ampleur, il sera sans doute intéressant de trouver une solution mieux orientée.
 
@@ -20,8 +21,11 @@ Pour créer un nouveau dépôt, *GitHub* propose la fonctionnalité : *New repos
 
 Pour finaliser, il faut indiquer le nom et la description :
 - Nom : *daktary-meteor*
-- Description : "Boite à outils pour visualiser des documents Markdown stockés sur Github"
+- Description : "Boite à outils pour visualiser des documents *Markdown* stockés sur Github"
 
 ### Liens
-- [Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
-- [Créer un dépôt (en)](https://help.github.com/articles/create-a-repo/)
+- [Démarrer un dépôt Git][1]
+- [Créer un dépôt (en)][2]
+
+[1]:	https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git%5D
+[2]:	https://help.github.com/articles/create-a-repo/

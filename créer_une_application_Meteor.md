@@ -4,28 +4,29 @@
 À cette étape, nous avons besoin de pouvoir coder sans trop nous engager sur la plateforme technologique.
 Les besoins apparaitrons au fur et à mesure. Nous pensons que nos décisions seront plus pertinentes quand nous aurons commencer à explorer le produit.
 
-Pour commencer l'exploration du produit, nous choisissons de partir sur *[Meteor](http://www.meteor.com)*.
+Pour commencer le développement du produit, nous choisissons de partir sur *[Meteor][1]*. C’est une décision arbitraire qui devrait nous permettre de gagner du temps au début. Cet outil propose une solution simple et relativement complète pour développer un projet sans se préoccuper des choix pour constituer un environnement *JavaScript* simple mais consistant.
 
+### Éléments requis
+L’interaction avec *Meteor* se fera en ligne de commande et avec le navigateur. La [documentation][2] est plutôt bien faite et fréquemment actualisée.
 
-
-
-
-
-``` bash
+Avant de commencer il faut installer *Meteor* :
+- accéder à un terminal
+- puis installer le *framework*
+\`\`\` bash
 $ curl https://install.meteor.com/ | sh
-```
+\`\`\`
 
-### Liens
-- [[Démarrer un dépôt Git](https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git])
-- [Créer un dépôt (en)](https://help.github.com/articles/create-a-repo/)
+### Créer une application Meteor
+Pour créer un projet, ouvrir le terminal et :
+\`\`\` bash
+$ meteor create daktary-meteor
+$ cd daktary-meteor
+$ meteor
+\`\`\`
 
+La commande *meteor* lance un serveur Web accessible à l’adresse :
+[http://localhost:3000][3]
 
-# Créer une application Meteor
-meteor create daktary-meteor
-lancer meteor
-
-git init .
-git remote add origin git@github.com:pointbar/daktary-meteor
-git add .
-git commit -m "Création d'une application Meteor"
-git push --set-upstream origin master
+[1]:	http://www.meteor.com
+[2]:	http://docs.meteor.com/#/full/
+[3]:	http://localhost:3000
