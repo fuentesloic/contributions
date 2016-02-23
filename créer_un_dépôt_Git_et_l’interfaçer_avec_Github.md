@@ -10,7 +10,7 @@ On commence par créer un dépôt.
 On y ajoute les fichiers, en commentant.
 
 ``` bash
-`$ git init .
+$ git init .
 $ git add .
 $ git commit -m "Création d'une application Meteor"
 ```
@@ -19,7 +19,7 @@ Reste à lier le dépôt avec *Github*.
 Et finalement, publier les fichiers.
 
 ``` bash
-`$ git remote add origin git@github.com:barbapapa/daktary-meteor
+$ git remote add origin git@github.com:barbapapa/daktary-meteor
 $ git push --set-upstream origin master
 ```
 `
