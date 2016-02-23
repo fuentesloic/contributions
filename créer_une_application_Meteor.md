@@ -17,12 +17,12 @@ Avant de commencer il faut installer *Meteor* :
 ``` bash
 `$ curl https://install.meteor.com/ | sh
 ```
-`
+
 ### Créer une application Meteor
   
 Pour créer un projet, ouvrir le terminal et :
 ``` bash
-`$ meteor create daktary-meteor
+$ meteor create daktary-meteor
 $ cd daktary-meteor
 $ meteor
 ```
@@ -34,18 +34,18 @@ La commande *meteor* lance un serveur Web accessible à l’adresse :
 
 On peut commencer par supprimer les fichiers de démonstration.
 ``` bash
-`$ rm daktary-meteor.js daktary-meteor.html daktary-meteor.css
+$ rm daktary-meteor.js daktary-meteor.html daktary-meteor.css
 ```
-`  
+
 Puis créer une nouvelle structure :
 ``` bash
-`$ mkdir client
+$ mkdir client
 $ touch client/index.html client/main.js client/style.css
 ```
-`
+
 Par convention *Meteor*, les fichiers placés dans le dossier */client* ne seront exécutés que par le navigateur.
 
-
+### Liens
 
 [1]:	http://www.meteor.com
 [2]:	http://docs.meteor.com/#/full/
